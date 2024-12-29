@@ -41,7 +41,7 @@ const pizzaCategories = [
     items: [
       { 
         id: 5,
-        name: "Chicken Tikka Pizza", 
+        name: "Chicken Tikka Pizza",  
         price: 349, 
         description: "A spicy and smoky delight with marinated chicken.", 
         rating: 4.9,
